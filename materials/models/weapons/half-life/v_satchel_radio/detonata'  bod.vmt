@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons/half-life/v_satchel_radio/detonata'  bod"
+	"$bumpmap" "models\weapons/half-life/v_satchel_radio/detonata'  bod_normal"
+}

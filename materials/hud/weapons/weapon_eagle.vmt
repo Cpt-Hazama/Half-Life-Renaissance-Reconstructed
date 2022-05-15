@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "HUD/weapons/weapon_eagle"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

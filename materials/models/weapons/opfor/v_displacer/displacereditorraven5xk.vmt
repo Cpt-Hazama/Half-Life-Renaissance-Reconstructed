@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/opfor/v_displacer/displacereditorraven5xk"
+	"$selfillum" "1"
+}

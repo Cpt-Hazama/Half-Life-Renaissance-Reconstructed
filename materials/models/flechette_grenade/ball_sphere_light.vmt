@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/flechette_grenade/ball_sphere_light"
+	"$selfillum" 1
+}

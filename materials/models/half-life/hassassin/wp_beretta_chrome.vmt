@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models/weapons/half-life/v_9mmhandgun/chrome_black"
+	"$envmap" "models/half-life/hassassin/hassn-env"
+	"$envmapsphere"			1
+	"$envmapmode" 1
+	"$multipass" 1
+}
+
+
+

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons/half-life/v_357/v_python_Reference"
+	"$bumpmap" "models\weapons/half-life/v_357/v_python_Reference_normal"
+}

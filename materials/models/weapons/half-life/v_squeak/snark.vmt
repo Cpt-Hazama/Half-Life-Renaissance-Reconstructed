@@ -1,0 +1,7 @@
+// envmaptint_fix
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models\weapons/half-life/v_squeak\Snark"
+	"$bumpmap" "models\weapons/half-life/v_squeak\SnarkNormal"
+}

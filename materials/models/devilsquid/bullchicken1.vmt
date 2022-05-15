@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/devilsquid/bullchicken1"
+	"$selfillum" 1
+	"$selfillummask" "models/devilsquid/devilsquid_g"
+}

@@ -1,0 +1,5 @@
+"Vertexlitgeneric"
+{
+	"$baseTexture" "models\half-life/houndeye/eye2"
+	"$bumpmap" "models\half-life/houndeye/eye2_normal"
+}

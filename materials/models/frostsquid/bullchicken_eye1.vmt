@@ -1,0 +1,6 @@
+"Vertexlitgeneric"
+{
+	"$baseTexture" "models/frostsquid/bullchicken_eye1"
+	"$selfillum" 1
+	"$selfillummask" "models/frostsquid/bullchicken_eye1_g"
+}

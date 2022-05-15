@@ -1,0 +1,7 @@
+"Sprite"
+{
+	"$spriteorientation" "vp_parallel"
+	"$spriteorigin" "[ 0.50 0.50 ]"
+	"$spriterendermode" 5
+	"$basetexture" "sprites/laserbeam"
+}

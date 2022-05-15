@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/half-life/hassassin/Fassn_head_NVG"
+	"$bumpmap" "models/half-life/hassassin/Fassn_head_NVG-normal"
+}

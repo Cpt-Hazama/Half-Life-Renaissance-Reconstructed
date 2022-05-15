@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/opfor/v_displacer/Displacer_Support_Front-Editor"
+	"$selfillum" "1"
+}

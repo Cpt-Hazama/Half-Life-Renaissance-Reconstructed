@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/opfor/strooper/wp_shock_rifle"
+	"$selfillum" 1
+}

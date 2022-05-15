@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/opfor/v_displacer/GLOW"
+	"$additive" "1"
+	"$selfillum" "1"
+}

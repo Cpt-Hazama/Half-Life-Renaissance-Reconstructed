@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$envmap" "models/weapons/half-life/v_gauss/barrelCHROME"
+	"$envmapsphere"			1
+	"$envmapmode" 1
+	$envmaptint 0.05 0.05 0.05
+	// requred to see specular on dx6+7 at all
+	"$multipass" 1
+}

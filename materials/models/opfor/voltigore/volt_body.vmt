@@ -1,0 +1,5 @@
+"Vertexlitgeneric"
+{
+	"$baseTexture" "models\opfor\voltigore\volt_body"
+	"$selfillum" 1
+}

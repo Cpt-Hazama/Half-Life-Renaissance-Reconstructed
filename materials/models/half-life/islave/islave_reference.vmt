@@ -1,0 +1,5 @@
+"Vertexlitgeneric"
+{
+	"$baseTexture" "models\half-life/islave/islave_reference"
+	"$bumpmap" "models\half-life/islave/islave_reference_normal"
+}

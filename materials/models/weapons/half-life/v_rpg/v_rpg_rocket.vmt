@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons/half-life/v_rpg/v_rpg_rocket"
+	"$bumpmap" "models\weapons/half-life/v_rpg/v_rpg_rocket_normal"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons/half-life/v_satchel/psx_v_satchel"
+	"$bumpmap" "models\weapons/half-life/v_satchel/psx_v_satchel_normal"
+}

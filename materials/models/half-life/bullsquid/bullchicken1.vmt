@@ -1,0 +1,5 @@
+"Vertexlitgeneric"
+{
+	"$baseTexture" "models/half-life/bullsquid/bullchicken1"
+	"$bumpmap" "models/half-life/bullsquid/bullchicken1_normal"
+}

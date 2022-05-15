@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "HUD/weapons/weapon_satchel_radio"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

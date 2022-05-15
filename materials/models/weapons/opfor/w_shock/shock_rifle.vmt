@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/opfor/w_shock/shock_rifle"
+	"$selfillum" 1
+}
